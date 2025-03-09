@@ -5,11 +5,11 @@
 <table align="center">
   <tr>
     <td width="300">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (Instituto Tecnológico de Aeronáutica, ITA), located in São José dos Campos, São Paulo, Brazil.</td>
-    <td width="700" align="center"><img src="/assets/IMG20250309112359.jpg" height="500" width="700"/></td>
+    <td width="700" align="center"><img src="/assets/IMG20250309112359.jpg" height="400" width="700"/></td>
   </tr>
   <tr>
     <td width="300">The laboratory is focused on research and development of algorithms and techniques for satellite navigation and communication (NavCom) systems, with a special emphasis on Global Navigation Satellite Systems (GNSS) and their applications. The laboratory is equipped with state-of-the-art GNSS receivers, antennas, and simulators, which are used for research, development, and testing of GNSS algorithms and techniques.</td>
-    <td width="700" align="center"><img src="/assets/IMG20250309112051.jpg" height="500" width="700"/></td>
+    <td width="700" align="center"><img src="/assets/IMG20250309112051.jpg" height="400" width="700"/></td>
   </tr>
 </table>
 
