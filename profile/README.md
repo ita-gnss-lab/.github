@@ -16,6 +16,6 @@ While some repositories were forked from external sources, most of the content i
 
 <p align="center">
   <a href="https://github.com/tapyu/awesome-stem-academy">
-    <img src="/assets/lab_structure.jpg" width="750">
+    <img src="/assets/lab_structure.jpg" width="900">
   </a>
 </p>
