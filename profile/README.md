@@ -17,7 +17,7 @@
 
 This organization is meant to provide an integrated environment for laboratory's internal and external researchers to work on joint projects, share knowledge, and collaborate on research and development activities. For this purpose, this organization contains all the material (organized in repos) of interest for the research group, including papers, reports, code, software, and other relevant documents. 
 
-## How to content is organized?
+## How is the content organized?
 
 While some repositories were forked from external sources, most of the content is original and was developed by the research group members, which includes students, professors, and researchers. Moreover, while some repositories are public and intended for sharing with the scientific community in general, others are private and meant to be developed either internally or with outside collaborators.
 
