@@ -1,4 +1,6 @@
-# Aeronautics Institute of Technology's GPS/GNSS Laboratory
+# Aeronautics Institute of Technology (ITA) 
+
+# GPS/GNSS Laboratory
 
 ## About the GPS/GNSS Laboratory
 
