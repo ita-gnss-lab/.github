@@ -1,4 +1,4 @@
-# Aeronautics Institute of Technology (ITA) <img src="/assets/ITA_logo.png" width="150" style="vertical-align: middle; margin-right: 0px;"> 
+# Aeronautics Institute of Technology (ITA) <img src="/assets/ITA_logo.png" width="250" style="vertical-align: middle; margin-right: 10px;"> 
 
 
 # GPS/GNSS Laboratory
