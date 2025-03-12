@@ -7,18 +7,53 @@
 
 <table align="center">
   <tr>
-    <td width="300">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (Instituto Tecnológico de Aeronáutica, ITA), located in São José dos Campos, São Paulo, Brazil.</td>
-    <td width="700" align="center"><img src="/assets/IMG20250309112359.jpg" height="400" width="700"/></td>
+    <td width="450">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (Instituto Tecnológico de Aeronáutica, ITA), located in São José dos Campos, São Paulo, Brazil.</td>
+    <td width="550" align="center"><img src="/assets/IMG20250309112359.jpg" height="400" width="550"/></td>
   </tr>
   <tr>
-    <td width="300">The laboratory is focused on research and development of algorithms and techniques for satellite navigation and communication (NavCom) systems, with a special emphasis on Global Navigation Satellite Systems (GNSS) and their applications. The laboratory is equipped with state-of-the-art GNSS receivers, antennas, and simulators, which are used for research, development, and testing of GNSS algorithms and techniques.</td>
-    <td width="700" align="center"><img src="/assets/IMG20250309112051.jpg" height="400" width="700"/></td>
+    <td width="450">We are developing signal and data processing algorithms as well as instrumention and software for reliable and robust positioning with global navigation satellite systems (GNSS), remote sensing, and wireless communications.</td>
+    <td width="550" align="center"><img src="/assets/IMG20250309112051.jpg" height="400" width="550"/></td>
+  </tr>
+
+  <tr>
+      <td width="450">The main research areas of Lab GP/GNSS are: 
+          <ol>
+        <li>
+            <strong>Signal processing for global navigation satellite systems (GNSS), positioning, and localization</strong>
+            <ul class="sub-list">
+                <li>Mitigation of interference, multipath, and spoofing</li>
+                <li>High-dynamic applications </li>
+                <li>Software defined radio (SDR) based GNSS receivers</li>
+                <li>Positioning and localization of wireless systems</li>
+            </ul>
+        </li>
+        <li><strong>Channel estimation for communication systems</strong></li>
+        <li><strong>Waveform design for GNSS, wireless systems, and radar</strong></li>
+        <li>
+            <strong>Space weather research</strong>
+            <ul class="sub-list">
+                <li>Characterization, monitoring, and mitigation of ionospheric scintillation</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Remote sensing and Surveillance</strong>
+            <ul class="sub-list">
+                <li>GNSS reflectometry (GNSS-R): soil moisture, object detection, etc.</li>
+                <li>Synthetic aperture radar (SAR) signal processing</li>
+                <li>Counter-Unmanned Aircraft Systems (C-UAS)</li>
+                <li>Parameter estimation for surveillance</li>
+            </ul>
+        </li>
+    </ol>
+ </td>
+    <td width="550" align="center"><img src="/assets/introduction_problem_GNSS-1.jpg" height="400" width="550"/></td>
+
   </tr>
 </table>
 
 ## What is this organization meant for?
 
-This organization is meant to provide an integrated environment for laboratory's internal and external researchers to work on joint projects, share knowledge, and collaborate on research and development activities. For this purpose, this organization contains all the material (organized in repos) of interest for the research group, including papers, reports, code, software, and other relevant documents. 
+This organization is meant to provide an integrated environment for the laboratory's internal and external researchers to work on joint projects, share knowledge, and collaborate on research and development activities. For this purpose, this organization contains all the material (organized in repos) of interest for the research group, including papers, reports, code, software, and other relevant documents. 
 
 ## How is the content organized?
 
