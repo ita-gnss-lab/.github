@@ -17,6 +17,8 @@
 
   <tr>
       <td width="450"> <strong> The main research areas of LAB-GNSS are: </strong>
+        <br>
+        <br>
           <ol>
         <li>
             <strong>Signal processing for global navigation satellite systems (GNSS), positioning, and localization</strong>
