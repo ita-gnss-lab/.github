@@ -1,7 +1,7 @@
 # Aeronautics Institute of Technology (ITA) <img src="/assets/ITA_logo.png" width="250" style="vertical-align: middle; margin-right: 10px;"> 
 
 
-# GPS/GNSS Laboratory
+# GPS/GNSS Laboratory (LAB-GNSS)
 
 ## About the GPS/GNSS Laboratory
 
@@ -16,7 +16,7 @@
   </tr>
 
   <tr>
-      <td width="450">The main research areas of Lab GP/GNSS are: 
+      <td width="450"> <strong> The main research areas of LAB-GNSS are: </strong>
           <ol>
         <li>
             <strong>Signal processing for global navigation satellite systems (GNSS), positioning, and localization</strong>
