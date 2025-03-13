@@ -21,7 +21,7 @@
         <br>
           <ol>
         <li>
-            <strong>Signal processing for global navigation satellite systems (GNSS), positioning, and localization</strong>
+            <strong>Signal processing for GNSS, positioning, and localization</strong>
             <ul class="sub-list">
                 <li>Mitigation of interference, multipath, and spoofing</li>
                 <li>High-dynamic applications </li>
