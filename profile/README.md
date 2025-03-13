@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td width="450">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (<a href="https://www.ita.br">Instituto Tecnológico de Aeronáutica, ITA</a> ), located in São José dos Campos, São Paulo, Brazil.  <br> <br> 
-    Prof. <a href="https://orcid.org/0000-0001-6596-0123">Felix Antreich</a>  is the head of the laboratory. From 2003 till 2018 he was an Associate Researcher with the Department of Navigation, Institute of Communications and Navigation of the German Aerospace Center (DLR), Wessling, Germany. From 2016 to 2018 he was a Visiting Professor in the Department of Teleinformatics Engineering (DETI) at the Federal University of Ceará (UFC) in Fortaleza, Brazil. Since July 2018 he is a Professor with the Department of Telecommunications in the Division of Electronics Engineering of ITA in São José dos Campos, Brazil.    
+    Prof. <a href="https://orcid.org/0000-0001-6596-0123">Felix Antreich</a>  is the head of the GPS/GNSS laboratory. From 2003 till 2018 he was an Associate Researcher with the Department of Navigation, Institute of Communications and Navigation of the German Aerospace Center (DLR), Wessling, Germany. From 2016 to 2018 he was a Visiting Professor in the Department of Teleinformatics Engineering (DETI) at the Federal University of Ceará (UFC) in Fortaleza, Brazil. Since July 2018 he is a Professor with the Department of Telecommunications in the Division of Electronics Engineering of ITA in São José dos Campos, Brazil.    
     </td>
     <td width="550" align="center"><img src="/assets/IMG20250309112359.jpg" height="350" width="550"/></td>
   </tr>
