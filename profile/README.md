@@ -13,7 +13,7 @@
     <td width="550" align="center"><img src="/assets/IMG20250309112359.jpg" height="350" width="550"/></td>
   </tr>
   <tr>
-    <td width="450">We are developing signal and data processing algorithms as well as instrumention and software for reliable and robust positioning with global navigation satellite systems (GNSS), remote sensing, and wireless communications.</td>
+    <td width="450">We are developing signal and data processing algorithms as well as instrumention and software for reliable and robust positioning with global navigation satellite systems (GNSS), remote sensing, and wireless communications. <br> <br> <a href="https://www.researchgate.net/profile/Felix-Antreich?ev=hdr_xprf">Click here to find our publications</a> </td>
     <td width="550" align="center"><img src="/assets/IMG20250309112051.jpg" height="350" width="550"/></td>
   </tr>
 
