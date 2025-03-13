@@ -28,9 +28,7 @@
                 <li>Software defined radio (SDR) based GNSS receivers</li>
                 <li>Positioning and localization of wireless systems</li>
             </ul>
-        </li>
-        <li><strong>Channel estimation for communication systems</strong></li>
-        <li><strong>Waveform design for GNSS, wireless systems, and radar</strong></li>
+                  </li>
         <li>
             <strong>Space weather research</strong>
             <ul class="sub-list">
@@ -42,10 +40,13 @@
             <ul class="sub-list">
                 <li>GNSS reflectometry (GNSS-R): soil moisture, object detection, etc.</li>
                 <li>Synthetic aperture radar (SAR) signal processing</li>
+                <li> Over-the-horizon radar (OTHR) signal processing </li>
                 <li>Counter-Unmanned Aircraft Systems (C-UAS)</li>
                 <li>Parameter estimation for surveillance</li>
             </ul>
         </li>
+        <li><strong>Channel estimation for communication systems</strong></li>
+        <li><strong>Waveform design for GNSS, wireless systems, and radar</strong></li>
     </ol>
  </td>
     <td width="550" align="center"><img src="/assets/introduction_problem_GNSS-1.jpg" height="350" width="550"/></td>
