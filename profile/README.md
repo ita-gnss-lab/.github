@@ -7,7 +7,7 @@
 
 <table align="center">
   <tr>
-    <td width="450">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (Instituto Tecnológico de Aeronáutica, ITA), located in São José dos Campos, São Paulo, Brazil.</td>
+    <td width="450">The GPS/GNSS laboratory is part of the Department of Telecommunications at the Aeronautics Institute of Technology (<a href="https://www.ita.br">Instituto Tecnológico de Aeronáutica, ITA</a> ), located in São José dos Campos, São Paulo, Brazil.</td>
     <td width="550" align="center"><img src="/assets/IMG20250309112359.jpg" height="350" width="550"/></td>
   </tr>
   <tr>
