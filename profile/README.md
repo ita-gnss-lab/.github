@@ -16,7 +16,7 @@
   </tr>
 
   <tr>
-      <td width="450"> <strong> The main research areas of LAB-GNSS are: </strong>
+      <td width="450"> The main research areas of LAB-GNSS are: 
         <br>
         <br>
           <ol>
