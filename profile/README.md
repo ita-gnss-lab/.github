@@ -64,7 +64,7 @@ This organization is meant to provide an integrated environment for the laborato
 
 ## How is the content organized?
 
-While some repositories were forked from external sources and maintained as public repositories, most of the content is original and was developed by the research group members (students, professors, and researchers) with possible external collaborators. The project repositories can have finished or work-in-progress status, and be either public or private. When a content from a private repository is intented to be shared with the scientific community in general, a mirrored filtered public repository is created for that goal.
+While some repositories were forked from external sources and maintained as public repositories, most of the content is original and was developed by the research group members (students, professors, and researchers) with possible external collaborators. The project repositories can have finished or work-in-progress status, and be either public or private. When part of a private repository is intented to be shared with the scientific community in general, a mirrored filtered public repository is created for that goal.
 
 <p align="center">
   <img src="/assets/lab_structure_1.jpg" width="1200">
