@@ -1,11 +1,10 @@
 <p align="center">
   <img width="200", src="/assets/ITA_logo.png">
-  <h1 align="center"> Aeronautics Institute of Technology (ITA) </h1>
 </p>
 
 # GPS/GNSS Laboratory (LAB-GNSS)
 
-## About the GPS/GNSS Laboratory
+## About the LAB-GNSS
 
 <table align="center">
   <tr>
