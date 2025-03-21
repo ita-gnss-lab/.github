@@ -58,6 +58,23 @@
   </tr>
 </table>
 
+
+## Online lectures
+
+<a href="https://www.youtube.com/watch?v=VDVhhjyvIG0"> Webinar: GNSS Signal Processing and Navigation Techniques</a>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=3Iij4ZGM8GA"> Day 1/5 - GIC-BR Professional Training</a> <br>
+<a href="https://www.youtube.com/watch?v=_yKQbrrsKrU"> Day 2/5 - GIC-BR Professional Training</a> <br>
+<a href="https://www.youtube.com/watch?v=moCmo37iB2k"> Day 3/5 - GIC-BR Professional Training</a> <br>
+<a href="https://www.youtube.com/watch?v=EsFyBm_qom8"> Day 4/5 - GIC-BR Professional Training</a> <br>
+<a href="https://www.youtube.com/watch?v=vwu3eBfhZpU"> Day 5/5 - GIC-BR Professional Training</a> <br>
+
+
+### Galileo Masterclass Brazil (GMB) 2022
+
+
+
 ## What is this organization meant for?
 
 This organization is meant to provide an integrated environment for the laboratory's internal and external researchers to work on joint projects, share knowledge, and collaborate on research and development activities. For this purpose, this organization contains all the material (organized in repos) of interest for the research group, including papers, reports, code, software, and other relevant documents. 
