@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400", src="/assets/ITA_logo.png">
+  <img width="200", src="/assets/ITA_logo.png">
   <h1 align="center"> Aeronautics Institute of Technology (ITA) </h1>
 </p>
 
