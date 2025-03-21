@@ -1,6 +1,6 @@
 
 
-<p> <h1> GPS/GNSS Laboratory (LAB-GNSS) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="200", src="/assets/ITA_logo.png"> </p>
+<p> <h1> GPS/GNSS Laboratory (LAB-GNSS) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="200", src="/assets/ITA_logo.png"> </p>
 
 
 ## About the LAB-GNSS
