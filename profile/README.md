@@ -71,7 +71,20 @@
 
 ### Galileo Masterclass Brazil (GMB) 2022
 
-
+<a href="https://www.youtube.com/watch?v=0ZIiCHdp_TM&t=7s"> L01 Multiple access for GNSS</a> <br>
+<a href="https://www.youtube.com/watch?v=8sHFMIfiLn8"> L02 Spread spectrum</a> <br>
+<a href="https://www.youtube.com/watch?v=moCmo37iB2k"> L03 Chip pulse shapes and multiplexing</a> <br>
+<a href="https://www.youtube.com/watch?v=EbbIAJiTG7o"> L04 Signal acquisition </a> <br>
+<a href="https://www.youtube.com/watch?v=cjethAsFjgU"> L05 Propagation aspects </a> <br>
+<a href="https://www.youtube.com/watch?v=VzqzUR2ehSQ"> L06 Parameter tracking </a> <br>
+<a href="https://www.youtube.com/watch?v=LWxYjfW971o"> L07 Use of remote sensing in water resource management </a> <br>
+<a href="https://www.youtube.com/watch?v=ui4-17cNIDw"> L08 Synergy between GNSS and remote sensing products </a> <br>
+<a href="https://www.youtube.com/watch?v=_v1SruojROk"> L09 Introduction to GNSS positioning techniques </a> <br>
+<a href="https://www.youtube.com/watch?v=T0Is6bkwGSk"> L10 Satellite orbits and clocks </a> <br>
+<a href="https://www.youtube.com/watch?v=VG4EgPYViB0"> L11 Code pseudorange modelling </a> <br>
+<a href="https://www.youtube.com/watch?v=pYFFfbxO5ko"> L12 Augmentation systems </a> <br>
+<a href="https://www.youtube.com/watch?v=Nh2gSxoWLLE"> L13 Solving navigation equations </a> <br>
+<a href="https://www.youtube.com/watch?v=BF1VBCxtfVw"> L14 Precise Point Positioning (PPP) </a> <br>
 
 ## What is this organization meant for?
 
