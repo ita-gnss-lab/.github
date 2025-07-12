@@ -57,7 +57,7 @@
 </table>
 
 
-## Online Lectures
+## Online lectures
 
 <a href="https://www.youtube.com/watch?v=VDVhhjyvIG0"> Webinar: GNSS Signal Processing and Navigation Techniques</a>
 <br>
